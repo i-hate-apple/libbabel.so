@@ -90,4 +90,12 @@ alex_rider:
   categories: ["crypto"]
   joinDate: "2025-08-20"
   github: "jinansh-dalal"
+voyager:
+  name: "voyager"
+  link: "/members/"
+  bio: "tutturu~"
+  image: "https://avatars.githubusercontent.com/u/81484621?v=4&size=64"
+  categories: ["for", "osint"]
+  joinDate: "2026-04-07"
+  github: "i-hate-apple"
   
